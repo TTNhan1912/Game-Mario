@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nen_dat
+  - ben_trai
+  - ben_tren
+  - gioi_hann
+  - qua_man
+  - vang
+  - rua
+  - question
+  - player
+  - fireball
+  - bong
+  - boss
+  - BossFireBall
+  - truoc_mat
+  - kill_boss
+  - Boom
+  - hammer
+  - coin
+  - ghost
+  - lavaX
+  - muc
+  - kd
+  - thanh_mau
+  - Win
+  - kkk
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 93092019
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3770916429
+    locked: 0
